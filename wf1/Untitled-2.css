@@ -1,0 +1,126 @@
+.main {
+  width: 600px;
+  height: 1500px;
+
+  margin: 0 auto;
+}
+.logo {
+  width: 150px;
+  height: 50px;
+
+  float: left;
+  background-color: gray;
+  text-align: center;
+  color: white;
+}
+.banner {
+  width: 250px;
+  height: 50px;
+
+  float: left;
+  margin-left: 195px;
+  background-color: gray;
+  color: white;
+}
+.navigation {
+  width: 600px;
+  height: 40px;
+
+  float: left;
+  margin-top: 20px;
+  background-color: gray;
+  text-align: center;
+  color: white;
+}
+.week {
+  width: 260px;
+  height: 0;
+
+  float: left;
+  margin: 20px 0 0 0;
+  background-color: gray;
+  text-align: center;
+  padding-bottom: 200px;
+  color: white;
+}
+.signup {
+  width: 140px;
+  height: 170px;
+
+  float: left;
+  margin: 20px 0 0 20px;
+  background-color: gray;
+  text-align: center;
+  color: white;
+  padding: 70px 0 0 0;
+}
+.description {
+  width: 150px;
+  height: 100px;
+
+  float: left;
+  margin: 20px 0 0 20px;
+  background-color: gray;
+  text-align: center;
+  color: white;
+  padding: 60px 0 0 0;
+}
+.partner {
+  width: 260px;
+  height: 180px;
+
+  float: left;
+  margin: -25px 0 0 0;
+  background-color: gray;
+  text-align: center;
+  color: white;
+  padding: 80px 0 0 0;
+}
+
+.petInsurance {
+  width: 140px;
+  height: 560px;
+
+  float: left;
+  margin: 20px 0 0 20px;
+  background-color: gray;
+  text-align: center;
+  color: white;
+  padding: 30px 0 0 0;
+}
+.blogPost {
+  width: 150px;
+  height: 240px;
+
+  float: left;
+  margin: -70px 0 0 20px;
+  background-color: gray;
+  text-align: center;
+  color: white;
+  padding: 140px 0 0 0;
+}
+.catogorized {
+  width: 260px;
+  height: 230px;
+
+  float: left;
+  margin: -370px 0 0 0;
+  background-color: gray;
+  text-align: center;
+  color: white;
+  padding: 140px 0 0 0;
+}
+.formPosts {
+  width: 150px;
+  height: 195px;
+
+  float: left;
+  margin: -280px 0 0 445px;
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding: 80px 0 0 0;
+}
+.week li {
+  list-style: none;
+}

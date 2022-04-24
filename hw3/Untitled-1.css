@@ -1,0 +1,24 @@
+.MenuDiv {
+  width: 130px;
+  height: 160px;
+  margin: 0 auto;
+  border: 1px rgb(173, 172, 172) solid;
+}
+.MenuDiv ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.MenuDiv ul li a {
+  display: block;
+  width: 120px;
+  height: 24px;
+  background-color: white;
+  padding: 8px 0 0 10px;
+  border: 1px rgb(173, 172, 172);
+  text-decoration: none;
+  font: bold 12px tahoma;
+}
+.MenuDiv ul li a:hover {
+  background-color: rgb(146, 149, 151);
+}
